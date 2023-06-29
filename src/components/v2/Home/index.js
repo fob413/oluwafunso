@@ -16,26 +16,26 @@ export default function Home () {
                 margin="20px 0"
             />
             <Typography
-                text="I'm a full-stack software engineer with 4+ years of hands-on professional experience in software development, process improvement, on-time delivery of projects, with strong front-end and backend development experience. Self-motivated & committed individual who loves challenges, quick to learn, and appreciates feedback."
+                text="I'm a full-stack software engineer with 6+ years of hands-on professional experience in software development, process improvement, on-time delivery of projects, with strong front-end and backend development experience. Self-motivated & committed individual who loves challenges, quick to learn, and appreciates feedback."
                 textAlign="left"
                 fontWeight="200"
                 margin="20px 0 0 0"
                 fontSize="16px"
                 />
-            <Typography
-                text="I'm currently at TalentUp Africa, leading the backend team that's building a recruitment software to enable a more efficient, objective, easier and faster way of recruiting quality talent."
-                textAlign="left"
-                fontWeight="200"
-                margin="20px 0 0 0"
-                fontSize="16px"
-            />
-            <Typography
-                text="I previously worked at Voyage Control, where I owned the end-to-end development of the ports section of the logistics management solution to bring down time spent by a truck at the ports to below 1 hour."
-                textAlign="left"
-                fontWeight="200"
-                margin="20px 0 0 0"
-                fontSize="16px"
-            />
+            {/*<Typography*/}
+            {/*    text="I'm currently at TalentUp Africa, leading the backend team that's building a recruitment software to enable a more efficient, objective, easier and faster way of recruiting quality talent."*/}
+            {/*    textAlign="left"*/}
+            {/*    fontWeight="200"*/}
+            {/*    margin="20px 0 0 0"*/}
+            {/*    fontSize="16px"*/}
+            {/*/>*/}
+            {/*<Typography*/}
+            {/*    text="I previously worked at Voyage Control, where I owned the end-to-end development of the ports section of the logistics management solution to bring down time spent by a truck at the ports to below 1 hour."*/}
+            {/*    textAlign="left"*/}
+            {/*    fontWeight="200"*/}
+            {/*    margin="20px 0 0 0"*/}
+            {/*    fontSize="16px"*/}
+            {/*/>*/}
             <Typography
                 text="If you ever want to chat about or play basketball, or discuss an interesting project, please feel free to hit me up."
                 textAlign="left"
