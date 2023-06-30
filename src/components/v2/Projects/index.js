@@ -11,7 +11,7 @@ const projects = [
         summary: "Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.\n" +
             "This API plays the game against the API server. (Don't expect to win 😉 )",
         github: "https://github.com/fob413/TicTacToeApi",
-        link: "https://tictactoeapi-funsho.herokuapp.com",
+        link: "https://oluwafunso-tic-tac-toe-e4ede6842e36.herokuapp.com/",
         technologyStack: "This was built with Python, Flask and Flask-RESTful."
     },
     {
@@ -76,12 +76,12 @@ export default function Projects () {
                 />
 
                 {project.github ?
-                    <p className="links">Github: <a href={project.github}>{project.github}</a> </p> :
+                    <p className="links">Github: <a target="_blank" href={project.github}>{project.github}</a> </p> :
                     <div />
                 }
                 {
                     project.link ?
-                    <p className="links">Link: <a href={project.link}>{project.link}</a> </p> :
+                    <p className="links">Link: <a target="_blank" href={project.link}>{project.link}</a> </p> :
                     <div />
                 }
                 <div style={{marginBottom: "40px"}} />
