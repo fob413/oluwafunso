@@ -16,7 +16,7 @@ export default function Home () {
                 margin="20px 0"
             />
             <Typography
-                text="I'm a full-stack software engineer with 6+ years of hands-on professional experience in software development, process improvement, on-time delivery of projects, with strong front-end and backend development experience. Self-motivated & committed individual who loves challenges, quick to learn, and appreciates feedback."
+                text="I'm a full-stack software engineer with 7+ years of hands-on professional experience in software development, process improvement, on-time delivery of projects, with strong front-end and backend development experience. Self-motivated & committed individual who loves challenges, quick to learn, and appreciates feedback."
                 textAlign="left"
                 fontWeight="200"
                 margin="20px 0 0 0"

@@ -45,6 +45,14 @@ const projects = [
         github: "https://github.com/fob413/oluwafunso",
         link: "http://oluwafunso.dev/",
         technologyStack: "This was built with React"
+    },
+    {
+        id: 6,
+        projectName: "My Wedding Website",
+        summary: "A beautiful site for my wedding.",
+        github: "https://github.com/fob413/wedding",
+        link: "https://www.22-07-fm.wedding/",
+        technologyStack: "This was built with React"
     }
 ]
 
