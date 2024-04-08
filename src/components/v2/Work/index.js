@@ -11,14 +11,14 @@ const workExperience = [
       companyName: 'ShowKonnect',
       title: 'Full Stack Engineer (Contract), July 2023 - Present',
       summary: 'Collaborated with the team to develop an end-to-end entertainment talent sourcing platform, focusing on seamless talent discovery, recruitment, scheduling, and payment management processes.',
-      technologyUsed: 'Javascript, Typescript, Node.js, Express, React, Socket.io, Flutterwave, Tailwind, PostgreSQL, AWS, Git, Jira'
+      technologyUsed: 'Javascript, TypeScript, Node.js, Python, Express, React, Socket.io, Flutterwave, Tailwind, PostgreSQL, MongoDB, Microservice, AWS, CI & CD, Git, Jira'
     },
     {
       id: 2,
       companyName: 'Proposify',
       title: 'Full Stack Engineer (Full-time), October 2021 - June 2023',
       summary: 'I worked as a fullstack engineer, collaborating with different teams, to build and maintain a proposal software that removes document bottlenecks, and provides visibility in the close stage of sales cycles',
-      technologyUsed: 'PHP, Javascript, Typescript, Node.js, React, Less, MySQL, Docker, AWS, Git, Jira'
+      technologyUsed: 'PHP, Javascript, TypeScript, Node.js, React, Less, MySQL, Docker, Microservice, Agile, Cloud, AWS, AWS Lambda, CI & CD, Git, Jira'
     },
     {
         id: 3,
@@ -39,28 +39,28 @@ const workExperience = [
         companyName: 'TalentUp Africa',
         title: 'Backend Software Engineer (Contract), June 2020 - November 2020',
         summary: 'I worked as a member of the backend  team that\'s building a recruitment software to enable a more efficient, objective, easier and faster way of recruiting quality talent.',
-        technologyUsed: 'Python, Flask, PostgreSQL, Unittest, Docker, Git, Jira, TravisCI, AWS'
+        technologyUsed: 'Python, Flask, Node.js, TypeScript, Express, PostgreSQL, SQLAlchemy, AWS DynamoDB, AWS, Microservice, Cloud, CI & CD, Docker, Jira, Git'
     },
     {
         id: 6,
         companyName: 'Voyage Control',
         title: 'FullStack Software Engineer (Contract through Andela), March 2019 - December 2020',
         summary: 'I worked as a full-stack engineer, where I owned the end-to-end development of the ports section of the logistics management solution to bring down time spent by a truck at the ports to below 1 hour.',
-        technologyUsed: 'Javascript, Angular, Typescript, Python, Flask, Django, Unittest, Docker, Git, Jira, MYSQL, PostgreSQL, AWS'
+        technologyUsed: 'Javascript, TypeScript, Python, Angular, Django, Agile, Cloud, Microservice, CI & CD, Docker, Git, Jira'
     },
     {
         id: 7,
         companyName: '3x3Insights',
         title: 'Backend Engineer (Contract through Andela), October 2018 - February 2019',
         summary: 'I worked as a backend engineer, focused on data extraction from the clients Point of sales machine for data analysis.',
-        technologyUsed: 'Python, Git'
+        technologyUsed: 'Python, Raspberry pi, Git, Agile'
     },
     {
         id: 8,
         companyName: 'Andela',
         title: 'FullStack Software Engineer (Full-time), August 2017 - October 2020',
         summary: 'I worked as a fullstack engineer full-time, to join/work with remote teams to build quickly and cost-effectively.',
-        technologyUsed: 'Javascript, Node.JS, Express.JS, React, Redux, Angular, Python, Flask, Django, Git, Jira, Pivotal Tracker, Docker, CircleCI, TravisCI, AWS, PostgreSQL, MongoDB, MySQL'
+        technologyUsed: ' Javascript, Python, Node, Express, React, Redux, Angular, Materialize CSS, SCSS & SASS, Bootstrap, Flask, Django, PostgreSQL, Flask-Sqlalchemy, AWS, CI & CD, Microservice, Agile, Cloud'
     },
     {
         id: 9,
